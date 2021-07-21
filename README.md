@@ -53,7 +53,11 @@ This template ships with the main React and Storybook configuration files you'll
     # Run the frontend app proper on port 3000:
     yarn start
     ```
-
+1. **INFO**
+    1. chromatic deployed story book https://60f769ca75b20c0039be31d6-murkbxtmaa.chromatic.com/?path=/story/inboxscreen--default
+    1. chromatic appid: https://www.chromatic.com/setup?appId=60f769ca75b20c0039be31d6
+    1. chromatic project token: npx chromatic --project-token=97a5209cf5c4
+    
 ## 🔎 What's inside?
 
 A quick look at the top-level files and directories included with this template.
