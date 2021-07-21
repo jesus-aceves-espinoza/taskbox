@@ -42,6 +42,18 @@ This template ships with the main React and Storybook configuration files you'll
 
     Run `yarn storybook` to see your component's stories at `http://localhost:6006`
 
+    Run all below scripts:
+    ```shell
+    # Run the test runner (Jest) in a terminal:
+    yarn test --watchAll
+        
+    # Start the component explorer on port 6006:
+    yarn storybook
+        
+    # Run the frontend app proper on port 3000:
+    yarn start
+    ```
+
 ## 🔎 What's inside?
 
 A quick look at the top-level files and directories included with this template.
